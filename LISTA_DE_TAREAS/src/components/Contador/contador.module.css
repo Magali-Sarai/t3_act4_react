@@ -1,0 +1,103 @@
+.titulo {
+    font-size: 2rem;
+    color: orange;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.displayContador {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.4em;
+}
+
+.numero {
+    font-size: 2.2em;
+    font-weight: bold;
+    color: orange;
+    margin-left: 10px;
+}
+
+.controlesContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+
+    button {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 1.1em;
+        padding: 8px 16px;
+    }
+}
+
+.pasoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    font-size: 1.1em;
+
+    input {
+        font-size: 1.1em;
+        padding: 6px 10px;
+        width: 80px;
+        text-align: center;
+    }
+}
+
+.subtitulo {
+    font-size: 1.5rem;
+    color: orange;
+    margin: 0;
+}
+
+.historialHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+    button {
+        padding: 4px 10px;
+    }
+}
+
+.historialList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.historialItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #333;
+}
+
+.iconsContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    svg {
+        cursor: pointer;
+    }
+}
+
+.vacio {
+    text-align: center;
+    font-size: 1em;
+    color: #888;
+    margin-top: 20px;
+}

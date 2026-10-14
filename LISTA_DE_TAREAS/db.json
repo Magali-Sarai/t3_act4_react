@@ -1,0 +1,25 @@
+{
+  "notas": [
+    {
+      "text": "hola",
+      "completed": true,
+      "id": "q-FW8g-d6b8"
+    },
+    {
+      "text": "skibiri",
+      "completed": false,
+      "id": "L0v0fBh9FXs"
+    },
+    {
+      "text": "lalala",
+      "completed": false,
+      "id": "dw9x_prlRIQ"
+    },
+    {
+      "text": "0",
+      "completed": false,
+      "id": "07aV-DN5yhw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
