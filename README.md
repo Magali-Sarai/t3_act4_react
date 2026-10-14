@@ -108,5 +108,5 @@ Es importante porque:
 https://github.com/Magali-Sarai/t3_act4_react.git
 
 ### e) Enlace del proyecto ya desplegado en GitHub Pages
-
+https://magali-sarai.github.io/t3_act4_react/
 
