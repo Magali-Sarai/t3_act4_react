@@ -102,7 +102,7 @@ Es importante porque:
       setCuenta(nuevoValor); // React detecta el cambio y actualiza el número en pantalla
   };
   ```
-  Inicia `cuenta` con valor `0`. Al hacer clic en el botón de sumar, se invoca `setCuenta(nuevoValor)`, lo que actualiza inmediatamente el valor renderizado por [`ContadorDisplay.jsx`](src/components/Contador/ContadorDisplay.jsx).
+  Inicia `cuenta` con valor `0`. Al hacer clic en el botón de sumar, se invoca `setCuenta(nuevoValor)`, lo que actualiza inmediatamente el valor renderizado por `ContadorDisplay.jsx`
 
 ### d) Enlace del repositorio de GitHub
 https://github.com/Magali-Sarai/t3_act4_react.git
