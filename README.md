@@ -93,7 +93,7 @@ Es importante porque:
 ### c) Explica con tus propias palabras qué hace la función useState y da un ejemplo de dónde la usaste en tu mini aplicación.
 * **Explicación:** `useState` es un Hook que le otorga memoria a los componentes funcionales de React. Devuelve un arreglo con dos elementos: la variable con el valor actual del estado y una función actualizadora. Al llamar a la función actualizadora con un nuevo valor, React detecta la modificación y redibuja la pantalla con los datos actualizados.
 * **Ejemplo en la mini aplicación:**
-  En [`Contador.jsx`](src/components/Contador/Contador.jsx):
+  En `Contador.jsx`:
   ```jsx
   const [cuenta, setCuenta] = useState(0);
 
