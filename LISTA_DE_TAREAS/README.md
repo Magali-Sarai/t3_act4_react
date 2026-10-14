@@ -81,7 +81,6 @@ Abrir en el navegador la URL indicada por Vite (como: `http://localhost:5173/` o
 ### a) ¿Qué diferencia hay entre props y state en React?
 * **Props (Propiedades):** Son datos que se pasan de un componente padre a un componente hijo (flujo unidireccional descendente). Son **inmutables (de solo lectura)** para el componente que las recibe; el componente hijo no debe modificarlas. Permiten parametrizar y reutilizar componentes.
 * **State (Estado):** Es la memoria interna y privada de un componente. Es **mutable** a través de su función actualizadora (`setEstado`). Cuando el estado cambia, React automáticamente vuelve a renderizar el componente para reflejar los nuevos datos en pantalla.
-
 En resumen, las *props* se reciben desde afuera (como argumentos de una función); el *state* se administra y modifica internamente dentro del componente.
 
 ### b) ¿Por qué es importante usar una key al renderizar una lista de elementos?
