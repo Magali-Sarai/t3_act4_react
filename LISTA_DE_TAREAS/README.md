@@ -104,9 +104,9 @@ Es importante porque:
   Inicia `cuenta` con valor `0`. Al hacer clic en el botón de sumar, invocamos `setCuenta(nuevoValor)`, lo que actualiza inmediatamente el valor renderizado por [`ContadorDisplay.jsx`](src/components/Contador/ContadorDisplay.jsx).
 
 ### d) Enlace del repositorio de GitHub
-* **Repositorio:** `[Pega aquí el enlace a tu repositorio de GitHub]`
+* **Repositorio:** [https://github.com/Magali-Sarai/t3_act4_react](https://github.com/Magali-Sarai/t3_act4_react)
 
 ### e) Enlace del proyecto ya desplegado en GitHub Pages
-* **Sitio Web desplegado:** `[Pega aquí el enlace de tu proyecto en GitHub Pages]`
+* **Sitio Web desplegado:** [https://magali-sarai.github.io/t3_act4_react/](https://magali-sarai.github.io/t3_act4_react/)
 
 
